@@ -1,0 +1,6 @@
+2026-02-04 13:25:15,590 | INFO | Placing LIMIT order | BTCUSDT | SELL | qty=0.01 | price=90000.0
+2026-02-04 13:25:16,128 | INFO | LIMIT order success | orderId=12107981113
+2026-02-04 13:25:16,128 | INFO | Order placed successfully via CLI
+2026-02-04 13:25:41,352 | INFO | Placing MARKET order | BTCUSDT | BUY | qty=0.01
+2026-02-04 13:25:41,583 | INFO | MARKET order success | orderId=12107988978
+2026-02-04 13:25:41,583 | INFO | Order placed successfully via CLI
