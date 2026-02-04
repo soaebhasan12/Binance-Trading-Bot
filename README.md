@@ -175,4 +175,4 @@ Logs include:
 ## 👤 Author
 
 **SOAEB HASAN**  
-Aspiring Fullstack Python Developer
+Aspiring Python Developer
